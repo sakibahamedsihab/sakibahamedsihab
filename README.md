@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=200&section=header&text=Sakib%20Ahamed%20Sihab&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%2F%20Node.js&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+clean%2C+functional+web+experiences;Currently+deep+in+React+%E2%80%94+hooks%2C+routing%2C+real+projects;Aiming+for+a+job+%2F+internship" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+clean%2C+functional+web+experiences;Currently+deep+in+Nextj+ss%2C+routing%2C+real+projects;Aiming+for+a+job+%2F+internship" alt="Typing SVG"/>
 <br/>
 <a href="https://www.linkedin.com/in/sakib-ahamed-sihab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:sakiba505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>

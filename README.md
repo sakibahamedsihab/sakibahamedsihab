@@ -1,85 +1,99 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sakib+%F0%9F%91%8B;Frontend+Developer;React+%7C+Node.js+%7C+Next.js;Building+Clean+%26+Functional+Web+Apps" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  Frontend developer from Bangladesh, building clean and functional web experiences.<br/>
-  Currently focused on <b>React</b> — hooks, routing, and real-world projects. Working toward freelancing on Upwork &amp; Fiverr.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=200&section=header&text=Sakib%20Ahamed%20Sihab&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%2F%20Node.js&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakib-ahamed-sihab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sakiba505@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+clean%2C+functional+web+experiences;Currently+deep+in+React+%E2%80%94+hooks%2C+routing%2C+real+projects;Heading+toward+freelancing+on+Upwork+%26+Fiverr" alt="Typing SVG"/>
 
-<hr/>
+<br/>
 
-### 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/sakib-ahamed-sihab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sakiba505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
+</div>
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
+<br/>
 
-**Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+## 👋 About Me
 
-**Currently Learning**
-<p>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
+I'm a self-taught frontend developer from Bangladesh who builds full projects, not just tutorials — from UI to API. Right now I'm sharpening my **React** fundamentals (hooks, routing, state management) while rounding out my stack with **Node.js**, **Express**, and **MongoDB** so I can ship complete apps end-to-end. Next stop: taking that skill set to freelance clients on Upwork and Fiverr.
 
-<hr/>
+<br/>
 
-### 📊 GitHub Stats
+## 🧰 Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibahamedsihab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sakib's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibahamedsihab&theme=tokyonight&hide_border=true" alt="Sakib's Streak Stats" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibahamedsihab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,java,cpp&theme=dark" />
 
-<hr/>
+</div>
 
-### 📌 Featured Projects
+<div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| [job-tracker](https://github.com/sakibahamedsihab/job-tracker) | Track job applications in one place | HTML |
-| [keen-keeper](https://github.com/sakibahamedsihab/keen-keeper) | Personal productivity/tracking app | JavaScript |
-| [qurbani-hut-v2](https://github.com/sakibahamedsihab/qurbani-hut-v2) | E-commerce style ordering platform | JavaScript |
-| [pet-adoption-client](https://github.com/sakibahamedsihab/pet-adoption-client) | Client app for browsing/adopting pets | JavaScript |
-| [spiral-sound-api](https://github.com/sakibahamedsihab/spiral-sound-api) | Backend API project | JavaScript |
-| [recipe-hub-app-client](https://github.com/sakibahamedsihab/recipe-hub-app-client) | Recipe sharing app client | JavaScript |
+`Currently learning:` **Mongoose** · **PostgreSQL**
 
-> ✏️ *Replace the descriptions above with your own one-liners — I used placeholders based on the repo names.*
+</div>
 
-<hr/>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakibahamedsihab&style=flat-square&color=2E9EF7" alt="Profile views"/>
-</p>
+## 📌 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ [job-tracker](https://github.com/sakibahamedsihab/job-tracker)
+A lightweight tracker for job applications — log the company, role, status, and key dates so nothing falls through the cracks during a job search.
+<br/>`HTML`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [keen-keeper](https://github.com/sakibahamedsihab/keen-keeper)
+A personal habit and goal tracker built to help build consistency through daily check-ins and progress tracking.
+<br/>`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐑 [qurbani-hut-v2](https://github.com/sakibahamedsihab/qurbani-hut-v2)
+An online ordering platform for Qurbani (sacrificial animal) purchases — browse listings, place orders, and manage bookings.
+<br/>`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 [pet-adoption-client](https://github.com/sakibahamedsihab/pet-adoption-client)
+Frontend client for a pet adoption platform — browse adoptable pets and submit adoption requests through a clean UI.
+<br/>`JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 [spiral-sound-api](https://github.com/sakibahamedsihab/spiral-sound-api)
+A backend REST API powering an audio/music-focused application, handling data and requests for the client side.
+<br/>`JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍳 [recipe-hub-app-client](https://github.com/sakibahamedsihab/recipe-hub-app-client)
+Frontend client for a recipe-sharing app where users can browse, search, and view recipes.
+<br/>`JavaScript`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F2027&height=100&section=footer"/>
+
+<img src="https://komarev.com/ghpvc/?username=sakibahamedsihab&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS"/>
+
+</div>
